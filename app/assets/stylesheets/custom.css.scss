@@ -8,3 +8,8 @@
   display: flex;
   justify-content: right;
 }
+
+#messages {
+  height: 15em;
+  overflow: auto;
+}
